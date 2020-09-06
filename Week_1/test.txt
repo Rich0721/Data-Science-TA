@@ -1,0 +1,3629 @@
+<!DOCTYPE html>
+<html lang="zh-Hant-TW">
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-140461612-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
+        gtag('js', new Date());
+
+        gtag('config', 'UA-140461612-1');
+    </script>
+    <!-- Basic -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <title>逢甲大學資訊工程學系</title>
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="/static/image/favicon.3f1a451bf94d.ico" type="image/x-icon"/>
+    <link rel="icon" href="/static/image/apple-touch-icon.ecbfb592a9da.png" sizes="32x32"/>
+    <link rel="icon" href="/static/image/apple-touch-icon.ecbfb592a9da.png" sizes="192x192"/>
+    <link rel="apple-touch-icon-precomposed" href="/static/image/apple-touch-icon.ecbfb592a9da.png"/>
+    <!-- Mobile Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
+    <!-- Web Fonts  -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:300,400,700" rel="stylesheet" type="text/css">
+    <!-- Vendor CSS -->
+    <link rel="stylesheet" href="/static/vendor/bootstrap/css/bootstrap.min.9180742b1214.css">
+    <link rel="stylesheet" href="/static/vendor/animate/animate.min.c78e4003414f.css">
+    <link rel="stylesheet" href="/static/vendor/simple-line-icons/css/simple-line-icons.min.3c281c35e048.css">
+    <link rel="stylesheet" href="/static/vendor/owl.carousel/assets/owl.carousel.min.761bea69e4eb.css">
+    <link rel="stylesheet" href="/static/vendor/owl.carousel/assets/owl.theme.default.min.594b81805a98.css">
+    <link rel="stylesheet" href="/static/vendor/magnific-popup/magnific-popup.min.fa10e481239e.css">
+    <!-- Theme CSS -->
+    <link rel="stylesheet" href="/static/css/theme.23e4c1f9fa4a.css">
+    <link rel="stylesheet" href="/static/css/theme-elements.08178cd985d4.css">
+    <link rel="stylesheet" href="/static/css/theme-blog.15b48d8ad703.css">
+    <link rel="stylesheet" href="/static/css/theme-shop.d0b6dc2be135.css">
+    <!-- Current Page CSS -->
+    <link rel="stylesheet" href="/static/vendor/rs-plugin/css/settings.c0a9441cfaf8.css">
+    <link rel="stylesheet" href="/static/vendor/rs-plugin/css/layers.eb071eb6b12b.css">
+    <link rel="stylesheet" href="/static/vendor/rs-plugin/css/navigation.e03138273031.css">
+    <!-- Demo CSS -->
+    <link rel="stylesheet" href="/static/css/demo-insurance.17ca692841c7.css">
+    <!-- Skin CSS -->
+    <link rel="stylesheet" href="/static/css/skin-insurance.420a8604f73a.css">
+    <!-- Head Libs -->
+    <script src="/static/vendor/modernizr/modernizr.min.66d383612621.js"></script>
+    <!-- Theme Custom CSS -->
+    <link rel="stylesheet" href="/static/css/custom.3c60a8a55d57.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css">
+    <!-- 行事曆css -->
+    <link rel="stylesheet" href="/static/fullcalender/fullcalendar.a960a85a225b.css">
+    <link rel="stylesheet" href="/static/fullcalender/fullcalendar.print.8be1c382c5cb.css" media="print">
+    <!-- 圖片滑動slick.js -->
+    <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+    <link rel="stylesheet" href="/static/css/slick-theme.4fdc7ccd787e.css">
+</head>
+<style>
+    .mobile-switch-m {
+        display: none;
+    }
+
+    @media only screen and (max-width: 895px) {
+        .mobile-switch-m {
+            display: block;
+        }
+
+        .mobile-swith-nm {
+            display: none;
+        }
+    }
+
+    #css_table {
+        display: table;
+    }
+
+    .css_tr {
+        display: table-row;
+        width: 100%;
+    }
+
+    .css_td {
+        display: table-cell;
+        text-align: left
+    }
+
+
+</style>
+<body>
+<div class="body">
+    <header id="header" class="header-effect-shrink"
+            data-plugin-options="{'stickyEnabled': true, 'stickyEffect': 'shrink', 'stickyEnableOnBoxed': true, 'stickyEnableOnMobile': true, 'stickyChangeLogo': true, 'stickyStartAt': 30, 'stickyHeaderContainerHeight': 70}">
+        <div class="header-body header-body-bottom-border border-top-0">
+            <div class="header-container container">
+                <div class="header-row">
+                    <div class="header-column">
+                        <div class="header-row">
+                            <div class="header-logo">
+                                <a href="/">
+                                    <img alt="Porto" width="200" height="80" data-sticky-width="180"
+                                         data-sticky-height="60" src="/static/image/logo.c66c5c58752c.svg">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="header-column justify-content-end ">
+                        <div class="header-row">
+                            <div class="header-nav header-nav-line header-nav-bottom-line">
+                                <div class="header-nav-main header-nav-main-square header-nav-main-dropdown-no-borders header-nav-main-effect-2 header-nav-main-sub-effect-1">
+                                    <nav class="collapse">
+                                        <ul class="nav nav-pills" id="mainNav">
+                                            <li>
+                                                <a class="nav-link " href="/">
+                                                    首頁
+                                                </a>
+                                            </li>
+                                            <li class="dropdown">
+                                                <a class="nav-link dropdown-toggle "
+                                                   href="/about/">
+                                                    關於本系
+                                                </a>
+                                                <ul class="dropdown-menu">
+                                                    <li><a href="/about/"
+                                                           class="dropdown-item ">本系介紹</a></li>
+                                                    <li><a href="/about/course_plan/" class="dropdown-item ">課程規劃</a>
+                                                    </li>
+                                                    <li><a href="/about/resource/" class="dropdown-item ">教學資源</a>
+                                                    </li>
+                                                    <li><a href="/about/history/"
+                                                           class="dropdown-item">大事紀要</a></li>
+                                                    <li><a href="/about/outstanding/" class="dropdown-item ">系友專區</a>
+                                                </ul>
+                                            </li>
+                                            <li class="dropdown">
+                                                <a class="nav-link active"
+                                                   href="/teacher#FT">
+                                                    系所成員
+                                                </a>
+                                                <ul class="dropdown-menu">
+                                                    
+                                                    
+                                                        
+                                                            <li><a href="/teacher#major"
+                                                                   class="dropdown-item">系主任</a></li>
+                                                        
+                                                    
+                                                        
+                                                            <li><a href="/teacher#FT"
+                                                                   class="dropdown-item">專任教師</a></li>
+                                                        
+                                                    
+                                                        
+                                                            <li><a href="/teacher#PT"
+                                                                   class="dropdown-item">兼任教師</a></li>
+                                                        
+                                                    
+                                                        
+                                                            <li><a href="/teacher#administration"
+                                                                   class="dropdown-item">行政人員</a></li>
+                                                        
+                                                    
+                                                        
+                                                    
+                                                    <li><a href="/teacher#retiree" class="dropdown-item">退休教師</a></li>
+                                                </ul>
+                                            </li>
+                                            <li class="dropdown">
+                                                <a class="nav-link dropdown-toggle "
+                                                   href="/news/">
+                                                    訊息與公告
+                                                </a>
+                                                <ul class="dropdown-menu">
+                                                    
+                                                    
+                                                        <li><a href="/news?category=award"
+                                                               class="dropdown-item">系所亮點</a></li>
+                                                    
+                                                        <li><a href="/news?category=student"
+                                                               class="dropdown-item">學生專欄</a></li>
+                                                    
+                                                        <li><a href="/news?category=teaching"
+                                                               class="dropdown-item">課務公告</a></li>
+                                                    
+                                                        <li><a href="/news?category=general"
+                                                               class="dropdown-item">事務公告</a></li>
+                                                    
+                                                        <li><a href="/news?category=speech"
+                                                               class="dropdown-item">演講公告</a></li>
+                                                    
+                                                        <li><a href="/news?category=activity"
+                                                               class="dropdown-item">一般活動公告</a></li>
+                                                    
+                                                        <li><a href="/news?category=competition"
+                                                               class="dropdown-item">競爭力活動公告</a></li>
+                                                    
+                                                        <li><a href="/news?category=job"
+                                                               class="dropdown-item">企業徵才</a></li>
+                                                    
+                                                        <li><a href="/news?category=department_activity"
+                                                               class="dropdown-item">系友活動</a></li>
+                                                    
+                                                </ul>
+                                            </li>
+                                            <li class="dropdown">
+                                                <a class="nav-link "
+                                                   href="/enrollment/">招生/Admission
+                                                </a>
+                                                <ul class="dropdown-menu">
+                                                    <li><a href="/enrollment/college" class="dropdown-item">大學部</a></li>
+                                                    <li><a href="/enrollment/master" class="dropdown-item">碩士班</a></li>
+                                                    <li><a href="/enrollment/doctor" class="dropdown-item">博士班</a></li>
+                                                    <li><a href="/en/foreign/" class="dropdown-item">Admission</a></li>
+                                                </ul>
+                                            </li>
+                                            <li class="dropdown">
+                                                <a class="nav-link dropdown-toggle "
+                                                   href="/feedback/">
+                                                    問卷回饋
+                                                </a>
+                                                <ul class="dropdown-menu">
+                                                    <li>
+                                                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdMEySgzAidstoeTcWY0IrZetUQlJwYfocWQmMpD0vhZ0-isg/viewform"
+                                                           target="_blank" class="dropdown-item">畢業生</a></li>
+                                                    <li>
+                                                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSd_TIjdZr9X2YosURKFNV5DWmCMrcXw6pF62ZA98AU0wF79LA/viewform"
+                                                           target="_blank" class="dropdown-item">校友</a></li>
+                                                    <li>
+                                                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdul6N1ErjlbzBYZZ_PeJH8WzW_EVSvICNqHT60i1nnwW8oEQ/viewform"
+                                                           target="_blank" class="dropdown-item">雇主</a></li>
+                                                    <li>
+                                                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSewq5jo7KrndPRlm_HsdBM1Hvxrmr9Ok5Vq6UGh8kRBKuOkGA/viewform?c=0&w=1"
+                                                           target="_blank" class="dropdown-item">研究所考取調查</a></li>
+                                                </ul>
+                                            </li>
+                                            <li>
+                                                <a class="nav-link" id="entw" href="/en">
+                                                            <span class="entwbtn">
+                                                                <i class="fas fa-globe-americas"></i><span
+                                                                    class="entwfont">English</span>
+                                                            </span>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </nav>
+                                </div>
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                <button class="btn header-btn-collapse-nav" data-toggle="collapse"
+                                        data-target=".header-nav-main nav">
+                                    <i class="fas fa-bars"></i>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <div role="main" class="main" style="min-height: calc(100vh - 450px)">
+        <!--<div role="main" class="main">-->
+        
+    <section class="page-header page-header-classic page-header-sm">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 order-2 order-md-1 align-self-center p-static">
+                    <h1 data-title-border>系所成員</h1>
+                </div>
+                <div class="col-md-4 order-1 order-md-2 align-self-center">
+                    <ul class="breadcrumb d-block text-md-right">
+                        
+                        
+                            
+                                
+                                    
+                                        <li><a href="#FT">系所成員</a></li>
+                                        <li class="active"><a href="#" id="category"></a></li>
+                                    
+                                
+
+                            
+
+                            
+                        
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+        
+    <div class="container py-2">
+        <div class="row">
+            <div class="col-lg-2 order-1 order-lg-1">
+                <aside class="sidebar">
+                    <ul class="nav nav-list flex-column sort-source mb-5" data-sort-id="portfolio"
+                        data-option-key="filter" data-plugin-options="{'layoutMode': 'fitRows', 'filter': '*'}">
+                        
+                        
+                            
+                                <li class="nav-item" onclick="weburl('系主任')" data-option-value=".major"><a
+                                        class="nav-link" href="/teacher/#major">系主任</a></li>
+                            
+                        
+                            
+                                <li class="nav-item" onclick="weburl('專任教師')" data-option-value=".FT">
+                                    <a class="nav-link" href="/teacher/#FT">專任教師</a>
+                                </li>
+                            
+                        
+                            
+                                <li class="nav-item" onclick="weburl('兼任教師')" data-option-value=".PT">
+                                    <a class="nav-link" href="/teacher/#PT">兼任教師</a>
+                                </li>
+                            
+                        
+                            
+                                <li class="nav-item" onclick="weburl('行政人員')" data-option-value=".administration">
+                                    <a class="nav-link" href="/teacher/#administration">行政人員</a>
+                                </li>
+                            
+                        
+                            
+                        
+                        <li class="nav-item" onclick="weburl('退休教師')" data-option-value=".retiree"><a class="nav-link"
+                                                                                                      href="/teacher/#retiree">退休教師</a>
+                        </li>
+                    </ul>
+                </aside>
+            </div>
+            <div class="col-lg-10 order-2 order-lg-2">
+                
+    <div class="sort-destination-loader sort-destination-loader-showing">
+        <div class="row portfolio-list sort-destination" data-sort-id="portfolio">
+            
+                
+                <div class="col-lg-6 isotope-item  mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/鍾葉青
+                                         "><img
+                                        src="/media/img/teacher/avatar/Chung-800.jpg" class="img-fluid" alt=""
+                                        style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-6 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/鍾葉青
+                                             "><h3
+                                            class="font-weight-bold mb-1">鍾葉青</h3></a>
+                                    <strong class="iecs-darkfont">教授.</strong><br>
+                                    
+                                    
+                                    
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+                
+            
+                
+                <div class="col-lg-6 isotope-item  mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/范光陵
+                                         "><img
+                                        src="/media/img/teacher/avatar/Fan800.jpg" class="img-fluid" alt=""
+                                        style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-6 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/范光陵
+                                             "><h3
+                                            class="font-weight-bold mb-1">范光陵</h3></a>
+                                    <strong class="iecs-darkfont">教授.</strong><br>
+                                    
+                                    
+                                    
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+                
+            
+                
+                <div class="col-lg-6 isotope-item FT mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/張真誠
+                                         "><img
+                                        src="/media/img/teacher/avatar/ccc800.jpg" class="img-fluid" alt=""
+                                        style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-6 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/張真誠
+                                             "><h3
+                                            class="font-weight-bold mb-1">張真誠</h3></a>
+                                    <strong class="iecs-darkfont">何宜武先生學術講座</strong><br>
+                                    
+                                        <strong class="iecs-darkfont">分機：#3790</strong><br>
+                                        <strong class="iecs-darkfont">信箱：alan3c@gmail.com</strong><br>
+                                    
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                資料庫設計
+                                            
+                                                電子商務安全
+                                            
+                                                電子多媒體影像技術
+                                            
+                                                電腦密碼學
+                                            
+                                                圖像與信號處理
+                                            
+                                                信息取證與安全
+                                            
+                                                深度學習
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+                
+            
+                
+                <div class="col-lg-6 isotope-item FT mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/楊濬中
+                                         "><img
+                                        src="/media/img/teacher/avatar/pic_0021.jpg" class="img-fluid" alt=""
+                                        style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-6 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/楊濬中
+                                             "><h3
+                                            class="font-weight-bold mb-1">楊濬中</h3></a>
+                                    <strong class="iecs-darkfont">榮譽特聘講座教授</strong><br>
+                                    
+                                        <strong class="iecs-darkfont">分機：#2003</strong><br>
+                                        <strong class="iecs-darkfont">信箱：tcyang@fcu.edu.tw</strong><br>
+                                    
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                計算機結構
+                                            
+                                                容錯計算
+                                            
+                                                通訊系統
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+                
+            
+                
+                <div class="col-lg-6 isotope-item FT mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/劉安之
+                                         "><img
+                                        src="/media/img/teacher/avatar/pic_0032.jpg" class="img-fluid" alt=""
+                                        style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-6 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/劉安之
+                                             "><h3
+                                            class="font-weight-bold mb-1">劉安之</h3></a>
+                                    <strong class="iecs-darkfont">特聘講座教授</strong><br>
+                                    
+                                        <strong class="iecs-darkfont">分機：#3780</strong><br>
+                                        <strong class="iecs-darkfont">信箱：acliu@fcu.edu.tw</strong><br>
+                                    
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                網路管理
+                                            
+                                                分散式系統
+                                            
+                                                資料庫系統
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+                
+            
+                
+                <div class="col-lg-6 isotope-item FT mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/竇其仁
+                                         "><img
+                                        src="/media/img/teacher/avatar/pic_0043.jpg" class="img-fluid" alt=""
+                                        style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-6 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/竇其仁
+                                             "><h3
+                                            class="font-weight-bold mb-1">竇其仁</h3></a>
+                                    <strong class="iecs-darkfont">特聘教授</strong><br>
+                                    
+                                        <strong class="iecs-darkfont">分機：#3739</strong><br>
+                                        <strong class="iecs-darkfont">信箱：crdow@fcu.edu.tw</strong><br>
+                                    
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                行動計算
+                                            
+                                                車載網路
+                                            
+                                                智慧聯網
+                                            
+                                                雲端計算
+                                            
+                                                學習科技
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+                
+            
+                
+                <div class="col-lg-6 isotope-item FT mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/王銘宏
+                                         "><img
+                                        src="/media/img/teacher/avatar/T28_MHWang.jpg" class="img-fluid" alt=""
+                                        style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-6 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/王銘宏
+                                             "><h3
+                                            class="font-weight-bold mb-1">王銘宏</h3></a>
+                                    <strong class="iecs-darkfont">助理教授</strong><br>
+                                    
+                                        <strong class="iecs-darkfont">分機：#3734</strong><br>
+                                        <strong class="iecs-darkfont">信箱：mhwang@mail.fcu.edu.tw</strong><br>
+                                    
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                社群媒體安全
+                                            
+                                                網路安全
+                                            
+                                                資料科學
+                                            
+                                                網路技術
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+                
+            
+                
+                <div class="col-lg-6 isotope-item FT mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/王益文
+                                         "><img
+                                        src="/media/img/teacher/avatar/pic_01312.jpg" class="img-fluid" alt=""
+                                        style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-6 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/王益文
+                                             "><h3
+                                            class="font-weight-bold mb-1">王益文</h3></a>
+                                    <strong class="iecs-darkfont">副教授</strong><br>
+                                    
+                                        <strong class="iecs-darkfont">分機：#3763</strong><br>
+                                        <strong class="iecs-darkfont">信箱：ywang@fcu.edu.tw</strong><br>
+                                    
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                嵌入式系統設計
+                                            
+                                                VLSI系統設計
+                                            
+                                                類神經網路
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+                
+            
+                
+                <div class="col-lg-6 isotope-item FT mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/江庭輝
+                                         "><img
+                                        src="/media/img/teacher/avatar/T08030.jpg" class="img-fluid" alt=""
+                                        style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-6 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/江庭輝
+                                             "><h3
+                                            class="font-weight-bold mb-1">江庭輝</h3></a>
+                                    <strong class="iecs-darkfont">助理教授</strong><br>
+                                    
+                                        <strong class="iecs-darkfont">分機：#3756</strong><br>
+                                        <strong class="iecs-darkfont">信箱：thchiang@fcu.edu.tw</strong><br>
+                                    
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                人工智慧
+                                            
+                                                室內定位
+                                            
+                                                姿態、動作辨識
+                                            
+                                                物聯網相關應用
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+                
+            
+                
+                <div class="col-lg-6 isotope-item FT mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/李榮三
+                                         "><img
+                                        src="/media/img/teacher/avatar/pic_01110.jpg" class="img-fluid" alt=""
+                                        style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-6 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/李榮三
+                                             "><h3
+                                            class="font-weight-bold mb-1">李榮三</h3></a>
+                                    <strong class="iecs-darkfont">教授</strong><br>
+                                    
+                                        <strong class="iecs-darkfont">分機：#2990 #3767</strong><br>
+                                        <strong class="iecs-darkfont">信箱：leejs@fcu.edu.tw</strong><br>
+                                    
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                無線通訊
+                                            
+                                                資訊安全
+                                            
+                                                電子商務
+                                            
+                                                密碼學
+                                            
+                                                數位影像處理
+                                            
+                                                區塊鏈技術與應用
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+                
+            
+                
+                <div class="col-lg-6 isotope-item FT mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/李維斌
+                                         "><img
+                                        src="/media/img/teacher/avatar/pic_0087.jpg" class="img-fluid" alt=""
+                                        style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-6 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/李維斌
+                                             "><h3
+                                            class="font-weight-bold mb-1">李維斌</h3></a>
+                                    <strong class="iecs-darkfont">教授</strong><br>
+                                    
+                                        <strong class="iecs-darkfont">分機：#3751</strong><br>
+                                        <strong class="iecs-darkfont">信箱：wblee@fcu.edu.tw</strong><br>
+                                    
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                網路安全
+                                            
+                                                密碼學
+                                            
+                                                數位浮水印
+                                            
+                                                資訊安全管理
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+                
+            
+                
+                <div class="col-lg-6 isotope-item FT mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/林志敏
+                                         "><img
+                                        src="/media/img/teacher/avatar/T6_JimmyLin.jpg" class="img-fluid" alt=""
+                                        style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-6 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/林志敏
+                                             "><h3
+                                            class="font-weight-bold mb-1">林志敏</h3></a>
+                                    <strong class="iecs-darkfont">教授</strong><br>
+                                    
+                                        <strong class="iecs-darkfont">分機：#3754</strong><br>
+                                        <strong class="iecs-darkfont">信箱：jimmy@fcu.edu.tw</strong><br>
+                                    
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                軟體代理人技術與應用
+                                            
+                                                嵌入式系統
+                                            
+                                                作業系統
+                                            
+                                                軟體整合與重用
+                                            
+                                                計算機算術
+                                            
+                                                機器人技術與應用
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+                
+            
+                
+                <div class="col-lg-6 isotope-item FT mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/林峰正
+                                         "><img
+                                        src="/media/img/teacher/avatar/T29_FCLin.png" class="img-fluid" alt=""
+                                        style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-6 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/林峰正
+                                             "><h3
+                                            class="font-weight-bold mb-1">林峰正</h3></a>
+                                    <strong class="iecs-darkfont">助理教授</strong><br>
+                                    
+                                        <strong class="iecs-darkfont">分機：#3761</strong><br>
+                                        <strong class="iecs-darkfont">信箱：fclin@fcu.edu.tw</strong><br>
+                                    
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                人工智慧、資料分析
+                                            
+                                                演算法
+                                            
+                                                雲端運算應用
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+                
+            
+                
+                <div class="col-lg-6 isotope-item FT mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/林明言
+                                         "><img
+                                        src="/media/img/teacher/avatar/T17_linmy_800_800.jpg" class="img-fluid" alt=""
+                                        style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-6 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/林明言
+                                             "><h3
+                                            class="font-weight-bold mb-1">林明言</h3></a>
+                                    <strong class="iecs-darkfont">副教授</strong><br>
+                                    
+                                        <strong class="iecs-darkfont">分機：#3747</strong><br>
+                                        <strong class="iecs-darkfont">信箱：linmy@mail.fcu.edu.tw</strong><br>
+                                    
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                資料探勘
+                                            
+                                                多媒體資料庫
+                                            
+                                                資料庫與資料串流管理
+                                            
+                                                巨量資料分析
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+                
+            
+                
+                <div class="col-lg-6 isotope-item FT mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/林佩君
+                                         "><img
+                                        src="/media/img/teacher/avatar/PJ1.jpg" class="img-fluid" alt=""
+                                        style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-6 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/林佩君
+                                             "><h3
+                                            class="font-weight-bold mb-1">林佩君</h3></a>
+                                    <strong class="iecs-darkfont">助理教授</strong><br>
+                                    
+                                        <strong class="iecs-darkfont">分機：#3749</strong><br>
+                                        <strong class="iecs-darkfont">信箱：peiclin@fcu.edu.tw</strong><br>
+                                    
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                模糊統計
+                                            
+                                                統計建模
+                                            
+                                                感性工學
+                                            
+                                                雲端計算
+                                            
+                                                大數據分析
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+                
+            
+                
+                <div class="col-lg-6 isotope-item FT mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/洪振偉
+                                         "><img
+                                        src="/media/img/teacher/avatar/2.jpg" class="img-fluid" alt=""
+                                        style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-6 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/洪振偉
+                                             "><h3
+                                            class="font-weight-bold mb-1">洪振偉</h3></a>
+                                    <strong class="iecs-darkfont">副教授</strong><br>
+                                    
+                                        <strong class="iecs-darkfont">分機：#3743</strong><br>
+                                        <strong class="iecs-darkfont">信箱：</strong><br>
+                                    
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                軟體工程(軟體系統開發、設計樣式、軟體架構)
+                                            
+                                                行動應用設計
+                                            
+                                                資訊教育
+                                            
+                                                電腦輔助語言學習
+                                            
+                                                物聯網應用開發
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+                
+            
+                
+                <div class="col-lg-6 isotope-item FT mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/洪維志
+                                         "><img
+                                        src="/media/img/teacher/avatar/Hong.jpg" class="img-fluid" alt=""
+                                        style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-6 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/洪維志
+                                             "><h3
+                                            class="font-weight-bold mb-1">洪維志</h3></a>
+                                    <strong class="iecs-darkfont">助理教授</strong><br>
+                                    
+                                        <strong class="iecs-darkfont">分機：#3733</strong><br>
+                                        <strong class="iecs-darkfont">信箱：wchong@fcu.edu.tw</strong><br>
+                                    
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                無線網路
+                                            
+                                                行動網路
+                                            
+                                                網路安全
+                                            
+                                                資訊安全
+                                            
+                                                密碼分析
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+                
+            
+                
+                <div class="col-lg-6 isotope-item FT mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/張哲誠
+                                         "><img
+                                        src="/media/img/teacher/avatar/T30_CCC.jpg" class="img-fluid" alt=""
+                                        style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-6 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/張哲誠
+                                             "><h3
+                                            class="font-weight-bold mb-1">張哲誠</h3></a>
+                                    <strong class="iecs-darkfont">助理教授</strong><br>
+                                    
+                                        <strong class="iecs-darkfont">分機：#3764</strong><br>
+                                        <strong class="iecs-darkfont">信箱：checchang@fcu.edu.tw</strong><br>
+                                    
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                平行分散式系統
+                                            
+                                                嵌入式系統
+                                            
+                                                自動駕駛系統
+                                            
+                                                雲端運算與機器學習
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+                
+            
+                
+                <div class="col-lg-6 isotope-item FT mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/張貴忠
+                                         "><img
+                                        src="/media/img/teacher/avatar/pic_01918.jpg" class="img-fluid" alt=""
+                                        style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-6 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/張貴忠
+                                             "><h3
+                                            class="font-weight-bold mb-1">張貴忠</h3></a>
+                                    <strong class="iecs-darkfont">副教授</strong><br>
+                                    
+                                        <strong class="iecs-darkfont">分機：#3753</strong><br>
+                                        <strong class="iecs-darkfont">信箱：changkc@fcu.edu.tw</strong><br>
+                                    
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                智慧連網系統設計
+                                            
+                                                智慧影像辨識、追蹤與檢測
+                                            
+                                                嵌入式系統、端點系統
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+                
+            
+                
+                <div class="col-lg-6 isotope-item FT mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/陳青文
+                                         "><img
+                                        src="/media/img/teacher/avatar/pic_0109.jpg" class="img-fluid" alt=""
+                                        style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-6 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/陳青文
+                                             "><h3
+                                            class="font-weight-bold mb-1">陳青文</h3></a>
+                                    <strong class="iecs-darkfont">教授</strong><br>
+                                    
+                                        <strong class="iecs-darkfont">分機：#3729</strong><br>
+                                        <strong class="iecs-darkfont">信箱：chingwen@fcu.edu.tw</strong><br>
+                                    
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                高效能低功率多核心系統
+                                            
+                                                嵌入式系統與周邊驅動
+                                            
+                                                無線隨意行動與感測網路
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+                
+            
+                
+                <div class="col-lg-6 isotope-item FT mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/陳啟鏘
+                                         "><img
+                                        src="/media/img/teacher/avatar/pic_0054.jpg" class="img-fluid" alt=""
+                                        style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-6 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/陳啟鏘
+                                             "><h3
+                                            class="font-weight-bold mb-1">陳啟鏘</h3></a>
+                                    <strong class="iecs-darkfont">教授</strong><br>
+                                    
+                                        <strong class="iecs-darkfont">分機：#3738</strong><br>
+                                        <strong class="iecs-darkfont">信箱：cychen@fcu.edu.tw</strong><br>
+                                    
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                單晶片系統設計與應用
+                                            
+                                                影像與視訊處理
+                                            
+                                                計算機算術與VLSI設計
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+                
+            
+                
+                <div class="col-lg-6 isotope-item FT mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/陳德生
+                                         "><img
+                                        src="/media/img/teacher/avatar/dschen.jpg" class="img-fluid" alt=""
+                                        style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-6 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/陳德生
+                                             "><h3
+                                            class="font-weight-bold mb-1">陳德生</h3></a>
+                                    <strong class="iecs-darkfont">副教授</strong><br>
+                                    
+                                        <strong class="iecs-darkfont">分機：#3746</strong><br>
+                                        <strong class="iecs-darkfont">信箱：dschen@fcu.edu.tw</strong><br>
+                                    
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                VLSI 電腦輔助設計
+                                            
+                                                機器視覺
+                                            
+                                                嵌入式系統
+                                            
+                                                智慧聯網
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+                
+            
+                
+                <div class="col-lg-6 isotope-item FT mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/陳錫民
+                                         "><img
+                                        src="/media/img/teacher/avatar/pic_02423.jpg" class="img-fluid" alt=""
+                                        style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-6 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/陳錫民
+                                             "><h3
+                                            class="font-weight-bold mb-1">陳錫民</h3></a>
+                                    <strong class="iecs-darkfont">副教授</strong><br>
+                                    
+                                        <strong class="iecs-darkfont">分機：#3741</strong><br>
+                                        <strong class="iecs-darkfont">信箱：hsiminc@fcu.edu.tw</strong><br>
+                                    
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                軟體工程
+                                            
+                                                DevOps技術
+                                            
+                                                服務導向運算
+                                            
+                                                分散式運算
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+                
+            
+                
+                <div class="col-lg-6 isotope-item FT mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/陳烈武
+                                         "><img
+                                        src="/media/img/teacher/avatar/1.jpg" class="img-fluid" alt=""
+                                        style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-6 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/陳烈武
+                                             "><h3
+                                            class="font-weight-bold mb-1">陳烈武</h3></a>
+                                    <strong class="iecs-darkfont">教授</strong><br>
+                                    
+                                        <strong class="iecs-darkfont">分機：#3759</strong><br>
+                                        <strong class="iecs-darkfont">信箱：lwuchen@fcu.edu.tw</strong><br>
+                                    
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                無線通訊與行動計算
+                                            
+                                                車聯網、物聯網與人聯網
+                                            
+                                                機器學習與人工智慧
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+                
+            
+                
+                <div class="col-lg-6 isotope-item FT mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/許芳榮
+                                         "><img
+                                        src="/media/img/teacher/avatar/pic_0065.jpg" class="img-fluid" alt=""
+                                        style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-6 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/許芳榮
+                                             "><h3
+                                            class="font-weight-bold mb-1">許芳榮</h3></a>
+                                    <strong class="iecs-darkfont">教授</strong><br>
+                                    
+                                        <strong class="iecs-darkfont">分機：#3755</strong><br>
+                                        <strong class="iecs-darkfont">信箱：frhsu@fcu.edu.tw</strong><br>
+                                    
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                大數據分析
+                                            
+                                                演算法
+                                            
+                                                雲端運算
+                                            
+                                                生物資訊
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+                
+            
+                
+                <div class="col-lg-6 isotope-item FT mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/許懷中
+                                         "><img
+                                        src="/media/img/teacher/avatar/pic_02524.jpg" class="img-fluid" alt=""
+                                        style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-6 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/許懷中
+                                             "><h3
+                                            class="font-weight-bold mb-1">許懷中</h3></a>
+                                    <strong class="iecs-darkfont">助理教授</strong><br>
+                                    
+                                        <strong class="iecs-darkfont">分機：#3750</strong><br>
+                                        <strong class="iecs-darkfont">信箱：hjhsu@mail.fcu.edu.tw</strong><br>
+                                    
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                巨量資料分析及應用
+                                            
+                                                軟體工程
+                                            
+                                                雲端計算
+                                            
+                                                生心理量測與群眾外包
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+                
+            
+                
+                <div class="col-lg-6 isotope-item FT mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/黃志銘
+                                         "><img
+                                        src="/media/img/teacher/avatar/pic_01413.jpg" class="img-fluid" alt=""
+                                        style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-6 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/黃志銘
+                                             "><h3
+                                            class="font-weight-bold mb-1">黃志銘</h3></a>
+                                    <strong class="iecs-darkfont">副教授</strong><br>
+                                    
+                                        <strong class="iecs-darkfont">分機：#3736</strong><br>
+                                        <strong class="iecs-darkfont">信箱：jmhuang@fcu.edu.tw</strong><br>
+                                    
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                容錯計算機系統
+                                            
+                                                容錯計算機系統
+                                            
+                                                平行及分散式系統
+                                            
+                                                平行及分散式系統
+                                            
+                                                無線網路
+                                            
+                                                無線網路
+                                            
+                                                嵌入式系統
+                                            
+                                                嵌入式系統
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+                
+            
+                
+                <div class="col-lg-6 isotope-item FT mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/黃秀芬
+                                         "><img
+                                        src="/media/img/teacher/avatar/pic_0098.jpg" class="img-fluid" alt=""
+                                        style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-6 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/黃秀芬
+                                             "><h3
+                                            class="font-weight-bold mb-1">黃秀芬</h3></a>
+                                    <strong class="iecs-darkfont">教授</strong><br>
+                                    
+                                        <strong class="iecs-darkfont">分機：#3752</strong><br>
+                                        <strong class="iecs-darkfont">信箱：sfhwang@mail.fcu.edu.tw</strong><br>
+                                    
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                計算機演算法
+                                            
+                                                圖學理論
+                                            
+                                                互連結網路
+                                            
+                                                無線隨意及感測網路
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+                
+            
+                
+                <div class="col-lg-6 isotope-item FT mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/游景盛
+                                         "><img
+                                        src="/media/img/teacher/avatar/pic_02019.jpg" class="img-fluid" alt=""
+                                        style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-6 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/游景盛
+                                             "><h3
+                                            class="font-weight-bold mb-1">游景盛</h3></a>
+                                    <strong class="iecs-darkfont">副教授</strong><br>
+                                    
+                                        <strong class="iecs-darkfont">分機：#3742</strong><br>
+                                        <strong class="iecs-darkfont">信箱：yucs@fcu.edu.tw</strong><br>
+                                    
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                生物資訊
+                                            
+                                                結構生物資訊
+                                            
+                                                計算系統生物
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+                
+            
+                
+                <div class="col-lg-6 isotope-item FT mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/楊柏遠
+                                         "><img
+                                        src="/media/img/teacher/avatar/YangPY3.jpg" class="img-fluid" alt=""
+                                        style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-6 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/楊柏遠
+                                             "><h3
+                                            class="font-weight-bold mb-1">楊柏遠</h3></a>
+                                    <strong class="iecs-darkfont">助理教授</strong><br>
+                                    
+                                        <strong class="iecs-darkfont">分機：#3745</strong><br>
+                                        <strong class="iecs-darkfont">信箱：pyang@fcu.edu.tw</strong><br>
+                                    
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                計算智慧
+                                            
+                                                資訊技術與系統整合
+                                            
+                                                系統建模與模擬
+                                            
+                                                穩健優化技術
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+                
+            
+                
+                <div class="col-lg-6 isotope-item FT mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/劉明機
+                                         "><img
+                                        src="/media/img/teacher/avatar/pic_02726.jpg" class="img-fluid" alt=""
+                                        style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-6 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/劉明機
+                                             "><h3
+                                            class="font-weight-bold mb-1">劉明機</h3></a>
+                                    <strong class="iecs-darkfont">助理教授</strong><br>
+                                    
+                                        <strong class="iecs-darkfont">分機：#3768</strong><br>
+                                        <strong class="iecs-darkfont">信箱：mingcliu@fcu.edu.tw</strong><br>
+                                    
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                教育科技
+                                            
+                                                認知神經科學
+                                            
+                                                情感運算
+                                            
+                                                語意網路分析
+                                            
+                                                人工智慧
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+                
+            
+                
+                <div class="col-lg-6 isotope-item FT mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/劉宗杰
+                                         "><img
+                                        src="/media/img/teacher/avatar/pic_01716.jpg" class="img-fluid" alt=""
+                                        style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-6 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/劉宗杰
+                                             "><h3
+                                            class="font-weight-bold mb-1">劉宗杰</h3></a>
+                                    <strong class="iecs-darkfont">副教授</strong><br>
+                                    
+                                        <strong class="iecs-darkfont">分機：#3765</strong><br>
+                                        <strong class="iecs-darkfont">信箱：tjliu@fcu.edu.tw</strong><br>
+                                    
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                分散式系統
+                                            
+                                                網路安全
+                                            
+                                                自我穩定系統
+                                            
+                                                大數據分析
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+                
+            
+                
+                <div class="col-lg-6 isotope-item FT mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/劉怡芬
+                                         "><img
+                                        src="/media/img/teacher/avatar/T27_YFLiu.jpg" class="img-fluid" alt=""
+                                        style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-6 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/劉怡芬
+                                             "><h3
+                                            class="font-weight-bold mb-1">劉怡芬</h3></a>
+                                    <strong class="iecs-darkfont">助理教授</strong><br>
+                                    
+                                        <strong class="iecs-darkfont">分機：#3735</strong><br>
+                                        <strong class="iecs-darkfont">信箱：yfliu@fcu.edu.tw</strong><br>
+                                    
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                機率論
+                                            
+                                                機器學習
+                                            
+                                                語音辨識
+                                            
+                                                自然口語處理與辨識
+                                            
+                                                計算語言學
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+                
+            
+                
+                <div class="col-lg-6 isotope-item FT mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/蔡國裕
+                                         "><img
+                                        src="/media/img/teacher/avatar/T08039.jpg" class="img-fluid" alt=""
+                                        style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-6 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/蔡國裕
+                                             "><h3
+                                            class="font-weight-bold mb-1">蔡國裕</h3></a>
+                                    <strong class="iecs-darkfont">副教授</strong><br>
+                                    
+                                        <strong class="iecs-darkfont">分機：#3757</strong><br>
+                                        <strong class="iecs-darkfont">信箱：kytsai@fcu.edu.tw</strong><br>
+                                    
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                區塊鏈應用
+                                            
+                                                物聯網應用與安全
+                                            
+                                                行動商務與安全
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+                
+            
+                
+                <div class="col-lg-6 isotope-item FT mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/蔡明翰
+                                         "><img
+                                        src="/media/img/teacher/avatar/IMG_4104b.jpg" class="img-fluid" alt=""
+                                        style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-6 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/蔡明翰
+                                             "><h3
+                                            class="font-weight-bold mb-1">蔡明翰</h3></a>
+                                    <strong class="iecs-darkfont">助理教授</strong><br>
+                                    
+                                        <strong class="iecs-darkfont">分機：#3737</strong><br>
+                                        <strong class="iecs-darkfont">信箱：minghtsai@fcu.edu.tw</strong><br>
+                                    
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                電腦視覺
+                                            
+                                                電腦圖學
+                                            
+                                                虛擬實境
+                                            
+                                                擴增實境
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+                
+            
+                
+                <div class="col-lg-12 isotope-item major mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-sm-12" style="padding-top:20px;text-align: center">
+                            <h4 style="color: red">現任系主任</h4>
+                        </div>
+                        <div class="col-lg-6" style="padding-bottom:10px;border-bottom: 2px solid #f7f7f9;">
+                            <div class="row">
+                                <div class="col-lg-6 col-md-4 pr-0">
+                                    <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                        <a href="/teacher/薛念林
+                                                 "><img
+                                                src="/media/img/teacher/avatar/IMG_2906.png" class="img-fluid" alt=""
+                                                style="width: 200px;"></a>
+                                    </span>
+                                </div>
+                                <div class="col-lg-6 col-md-6 ">
+                                    <span class="thumb-info-caption">
+                                        <span class="thumb-info-caption-text">
+                                            <a href="/teacher/薛念林
+                                                     "><h3
+                                                    class="font-weight-bold mb-1">薛念林</h3></a>
+                                            <strong class="iecs-darkfont">教授兼系主任</strong><br>
+                                            
+                                                <strong class="iecs-darkfont">分機：#3773</strong><br>
+                                                <strong class="iecs-darkfont">信箱：nlhsueh@mail.fcu.edu.tw</strong><br>
+                                            
+                                            
+                                            
+                                            
+                                                <strong class="iecs-darkfont">研究專長：
+                                                    
+                                                        軟體工程
+                                                    
+                                                        軟體品質驗證
+                                                    
+                                                        物件設計
+                                                    
+                                                </strong>
+                                            
+                                        </span>
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6" style="padding-bottom:10px;border-bottom: 2px solid #f7f7f9;"></div>
+                        <div class="col-sm-12" style="padding-top:20px;text-align: center">
+                            <h4 style="color: red">歷屆系主任</h4>
+                        </div>
+                    </div>
+                </span>
+                </div>
+                <div class="col-lg-6 isotope-item FT mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/薛念林
+                                         "><img
+                                        src="/media/img/teacher/avatar/IMG_2906.png" class="img-fluid" alt=""
+                                        style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-6 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/薛念林
+                                             "><h3
+                                            class="font-weight-bold mb-1">薛念林</h3></a>
+                                    <strong class="iecs-darkfont">教授兼系主任</strong><br>
+                                    
+                                        <strong class="iecs-darkfont">分機：#3773</strong><br>
+                                        <strong class="iecs-darkfont">信箱：nlhsueh@mail.fcu.edu.tw</strong><br>
+                                    
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                軟體工程
+                                            
+                                                軟體品質驗證
+                                            
+                                                物件設計
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+                
+            
+                
+                <div class="col-lg-6 isotope-item administration mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="#administration"><img
+                                        src="/media/img/teacher/avatar/pic_0111_2.jpg" class="img-fluid" alt=""
+                                        style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-6 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="#administration"><h3
+                                            class="font-weight-bold mb-1">吳邦華</h3></a>
+                                    <strong class="iecs-darkfont">書記</strong><br>
+                                    
+                                        <strong class="iecs-darkfont">分機：#3704</strong><br>
+                                        <strong class="iecs-darkfont">信箱：bhwu@fcu.edu.tw</strong><br>
+                                    
+                                    
+                                        <strong class="iecs-darkfont">負責職掌：大學部課務</strong>
+                                        <br>
+                                    
+                                    
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+                
+            
+                
+                <div class="col-lg-6 isotope-item administration mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="#administration"><img
+                                        src="/media/img/teacher/avatar/pic_0111_3.jpg" class="img-fluid" alt=""
+                                        style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-6 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="#administration"><h3
+                                            class="font-weight-bold mb-1">陳雅真</h3></a>
+                                    <strong class="iecs-darkfont">組員</strong><br>
+                                    
+                                        <strong class="iecs-darkfont">分機：#3707</strong><br>
+                                        <strong class="iecs-darkfont">信箱：yjchen@fcu.edu.tw</strong><br>
+                                    
+                                    
+                                        <strong class="iecs-darkfont">負責職掌：碩博士班</strong>
+                                        <br>
+                                    
+                                    
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+                
+            
+                
+                <div class="col-lg-6 isotope-item administration mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="#administration"><img
+                                        src="/media/img/teacher/avatar/pic_0111_1.jpg" class="img-fluid" alt=""
+                                        style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-6 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="#administration"><h3
+                                            class="font-weight-bold mb-1">黃鎮南</h3></a>
+                                    <strong class="iecs-darkfont">書記</strong><br>
+                                    
+                                        <strong class="iecs-darkfont">分機：#3705</strong><br>
+                                        <strong class="iecs-darkfont">信箱：cnhuang@fcu.edu.tw</strong><br>
+                                    
+                                    
+                                        <strong class="iecs-darkfont">負責職掌：招生業務、實驗室管理</strong>
+                                        <br>
+                                    
+                                    
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+                
+            
+                
+                <div class="col-lg-6 isotope-item administration mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="#administration"><img
+                                        src="/media/img/teacher/avatar/pic_0111_4.jpg" class="img-fluid" alt=""
+                                        style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-6 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="#administration"><h3
+                                            class="font-weight-bold mb-1">粘巧鈴</h3></a>
+                                    <strong class="iecs-darkfont">助理</strong><br>
+                                    
+                                        <strong class="iecs-darkfont">分機：#3706</strong><br>
+                                        <strong class="iecs-darkfont">信箱：clnien@mail.fcu.edu.tw</strong><br>
+                                    
+                                    
+                                        <strong class="iecs-darkfont">負責職掌：大學部專題、產業實習、獎學金申請</strong>
+                                        <br>
+                                    
+                                    
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+                
+            
+                
+                <div class="col-lg-6 isotope-item PT mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/魏國瑞
+                                         "><img
+                                        src="/media/img/teacher/avatar/pic_03635.jpg" class="img-fluid" alt=""
+                                        style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-6 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/魏國瑞
+                                             "><h3
+                                            class="font-weight-bold mb-1">魏國瑞</h3></a>
+                                    <strong class="iecs-darkfont">兼任助理教授</strong><br>
+                                    
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                網路安全
+                                            
+                                                密碼學
+                                            
+                                                資訊安全管理
+                                            
+                                                電子商務安全
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+                
+            
+            
+                <div class="col-lg-6 isotope-item major mb-4">
+                    <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/許芳榮"><img src="/media/img/teacher/avatar/pic_0065.jpg" class="img-fluid" alt="" style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-8 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/許芳榮">
+                                        <h3 class="font-weight-bold mb-1">許芳榮
+                                            <h4><span class="badge badge-info">第 13 任系主任 (104/8-107/7)</span></h4>
+                                        </h3>
+                                    </a>
+                                    <strong class="iecs-darkfont">教授</strong><br>
+                                    
+                                        <strong class="iecs-darkfont">分機：#3755</strong><br>
+                                        <strong class="iecs-darkfont">信箱：frhsu@fcu.edu.tw</strong><br>
+                                    
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                大數據分析
+                                            
+                                                演算法
+                                            
+                                                雲端運算
+                                            
+                                                生物資訊
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                    </span>
+                </div>
+            
+                <div class="col-lg-6 isotope-item major mb-4">
+                    <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/黃秀芬"><img src="/media/img/teacher/avatar/pic_0098.jpg" class="img-fluid" alt="" style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-8 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/黃秀芬">
+                                        <h3 class="font-weight-bold mb-1">黃秀芬
+                                            <h4><span class="badge badge-info">第 12 任系主任 (101/7-104/7)</span></h4>
+                                        </h3>
+                                    </a>
+                                    <strong class="iecs-darkfont">教授</strong><br>
+                                    
+                                        <strong class="iecs-darkfont">分機：#3752</strong><br>
+                                        <strong class="iecs-darkfont">信箱：sfhwang@mail.fcu.edu.tw</strong><br>
+                                    
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                計算機演算法
+                                            
+                                                圖學理論
+                                            
+                                                互連結網路
+                                            
+                                                無線隨意及感測網路
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                    </span>
+                </div>
+            
+                <div class="col-lg-6 isotope-item major mb-4">
+                    <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/林志敏"><img src="/media/img/teacher/avatar/T6_JimmyLin.jpg" class="img-fluid" alt="" style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-8 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/林志敏">
+                                        <h3 class="font-weight-bold mb-1">林志敏
+                                            <h4><span class="badge badge-info">第 11 任系主任 (98/8-101/7)</span></h4>
+                                        </h3>
+                                    </a>
+                                    <strong class="iecs-darkfont">教授</strong><br>
+                                    
+                                        <strong class="iecs-darkfont">分機：#3754</strong><br>
+                                        <strong class="iecs-darkfont">信箱：jimmy@fcu.edu.tw</strong><br>
+                                    
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                軟體代理人技術與應用
+                                            
+                                                嵌入式系統
+                                            
+                                                作業系統
+                                            
+                                                軟體整合與重用
+                                            
+                                                計算機算術
+                                            
+                                                機器人技術與應用
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                    </span>
+                </div>
+            
+                <div class="col-lg-6 isotope-item major mb-4">
+                    <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/陳啟鏘"><img src="/media/img/teacher/avatar/pic_0054.jpg" class="img-fluid" alt="" style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-8 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/陳啟鏘">
+                                        <h3 class="font-weight-bold mb-1">陳啟鏘
+                                            <h4><span class="badge badge-info">第 10 任系主任 (95/8-98/7)</span></h4>
+                                        </h3>
+                                    </a>
+                                    <strong class="iecs-darkfont">教授</strong><br>
+                                    
+                                        <strong class="iecs-darkfont">分機：#3738</strong><br>
+                                        <strong class="iecs-darkfont">信箱：cychen@fcu.edu.tw</strong><br>
+                                    
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                單晶片系統設計與應用
+                                            
+                                                影像與視訊處理
+                                            
+                                                計算機算術與VLSI設計
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                    </span>
+                </div>
+            
+                <div class="col-lg-6 isotope-item major mb-4">
+                    <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/竇其仁"><img src="/media/img/teacher/avatar/pic_0043.jpg" class="img-fluid" alt="" style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-8 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/竇其仁">
+                                        <h3 class="font-weight-bold mb-1">竇其仁
+                                            <h4><span class="badge badge-info">第 9 任系主任 (92/8-95/7)</span></h4>
+                                        </h3>
+                                    </a>
+                                    <strong class="iecs-darkfont">特聘教授</strong><br>
+                                    
+                                        <strong class="iecs-darkfont">分機：#3739</strong><br>
+                                        <strong class="iecs-darkfont">信箱：crdow@fcu.edu.tw</strong><br>
+                                    
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                行動計算
+                                            
+                                                車載網路
+                                            
+                                                智慧聯網
+                                            
+                                                雲端計算
+                                            
+                                                學習科技
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                    </span>
+                </div>
+            
+                <div class="col-lg-6 isotope-item major mb-4">
+                    <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/楊東麟"><img src="/media/img/teacher/avatar/R106_DLYang3.jpg" class="img-fluid" alt="" style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-8 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/楊東麟">
+                                        <h3 class="font-weight-bold mb-1">楊東麟
+                                            <h4><span class="badge badge-info">第 8 任系主任 (90/8-92/7)</span></h4>
+                                        </h3>
+                                    </a>
+                                    <strong class="iecs-darkfont">教授</strong><br>
+                                    
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                資料庫系統與資料挖掘
+                                            
+                                                軟體工程
+                                            
+                                                網際網路服務應用
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                    </span>
+                </div>
+            
+                <div class="col-lg-6 isotope-item major mb-4">
+                    <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/鍾葉青"><img src="/media/img/teacher/avatar/Chung-800.jpg" class="img-fluid" alt="" style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-8 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/鍾葉青">
+                                        <h3 class="font-weight-bold mb-1">鍾葉青
+                                            <h4><span class="badge badge-info">第 7 任系主任(87/8-90/7)</span></h4>
+                                        </h3>
+                                    </a>
+                                    <strong class="iecs-darkfont">教授.</strong><br>
+                                    
+                                    
+                                    
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                    </span>
+                </div>
+            
+                <div class="col-lg-6 isotope-item major mb-4">
+                    <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/王益文"><img src="/media/img/teacher/avatar/pic_01312.jpg" class="img-fluid" alt="" style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-8 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/王益文">
+                                        <h3 class="font-weight-bold mb-1">王益文
+                                            <h4><span class="badge badge-info">第 6 任系主任 (83/8-87/7)</span></h4>
+                                        </h3>
+                                    </a>
+                                    <strong class="iecs-darkfont">副教授</strong><br>
+                                    
+                                        <strong class="iecs-darkfont">分機：#3763</strong><br>
+                                        <strong class="iecs-darkfont">信箱：ywang@fcu.edu.tw</strong><br>
+                                    
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                嵌入式系統設計
+                                            
+                                                VLSI系統設計
+                                            
+                                                類神經網路
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                    </span>
+                </div>
+            
+                <div class="col-lg-6 isotope-item major mb-4">
+                    <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/羅浩榮"><img src="/media/img/teacher/avatar/pic_001001.jpg" class="img-fluid" alt="" style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-8 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/羅浩榮">
+                                        <h3 class="font-weight-bold mb-1">羅浩榮
+                                            <h4><span class="badge badge-info">資研所所長 (78/8-81/7)</span></h4>
+                                        </h3>
+                                    </a>
+                                    <strong class="iecs-darkfont">教授</strong><br>
+                                    
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                平行處理
+                                            
+                                                高速運算
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                    </span>
+                </div>
+            
+                <div class="col-lg-6 isotope-item major mb-4">
+                    <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/劉安之"><img src="/media/img/teacher/avatar/pic_0032.jpg" class="img-fluid" alt="" style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-8 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/劉安之">
+                                        <h3 class="font-weight-bold mb-1">劉安之
+                                            <h4><span class="badge badge-info">第 5 任系主任 (78/8-83/7)</span></h4>
+                                        </h3>
+                                    </a>
+                                    <strong class="iecs-darkfont">特聘講座教授</strong><br>
+                                    
+                                        <strong class="iecs-darkfont">分機：#3780</strong><br>
+                                        <strong class="iecs-darkfont">信箱：acliu@fcu.edu.tw</strong><br>
+                                    
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                網路管理
+                                            
+                                                分散式系統
+                                            
+                                                資料庫系統
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                    </span>
+                </div>
+            
+                <div class="col-lg-6 isotope-item major mb-4">
+                    <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/趙銘"><img src="/media/img/teacher/avatar/pic_010001.jpg" class="img-fluid" alt="" style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-8 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/趙銘">
+                                        <h3 class="font-weight-bold mb-1">趙銘
+                                            <h4><span class="badge badge-info">第 4 任系主任 (74/8-78/7)</span></h4>
+                                        </h3>
+                                    </a>
+                                    <strong class="iecs-darkfont">教授</strong><br>
+                                    
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                數位學習
+                                            
+                                                人工智慧應用
+                                            
+                                                人工智慧應用
+                                            
+                                                節目軟體製作
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                    </span>
+                </div>
+            
+                <div class="col-lg-6 isotope-item major mb-4">
+                    <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/楊濬中"><img src="/media/img/teacher/avatar/pic_0021.jpg" class="img-fluid" alt="" style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-8 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/楊濬中">
+                                        <h3 class="font-weight-bold mb-1">楊濬中
+                                            <h4><span class="badge badge-info">第 3 任系主任 (71/8-74/7)</span></h4>
+                                        </h3>
+                                    </a>
+                                    <strong class="iecs-darkfont">榮譽特聘講座教授</strong><br>
+                                    
+                                        <strong class="iecs-darkfont">分機：#2003</strong><br>
+                                        <strong class="iecs-darkfont">信箱：tcyang@fcu.edu.tw</strong><br>
+                                    
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                計算機結構
+                                            
+                                                容錯計算
+                                            
+                                                通訊系統
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                    </span>
+                </div>
+            
+                <div class="col-lg-6 isotope-item major mb-4">
+                    <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/謝祥圻"><img src="/media/img/teacher/avatar/Shieh800.jpg" class="img-fluid" alt="" style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-8 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/謝祥圻">
+                                        <h3 class="font-weight-bold mb-1">謝祥圻
+                                            <h4><span class="badge badge-info">第 2 任系主任 (61/8-71/4)</span></h4>
+                                        </h3>
+                                    </a>
+                                    <strong class="iecs-darkfont">教授</strong><br>
+                                    
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                決策支援系統設計
+                                            
+                                                數據通信與網路
+                                            
+                                                作業研究
+                                            
+                                                高等作業研究
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                    </span>
+                </div>
+            
+                <div class="col-lg-6 isotope-item major mb-4">
+                    <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/范光陵"><img src="/media/img/teacher/avatar/Fan800.jpg" class="img-fluid" alt="" style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-8 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/范光陵">
+                                        <h3 class="font-weight-bold mb-1">范光陵
+                                            <h4><span class="badge badge-info">第 1 任系主任 (58//-61/7)</span></h4>
+                                        </h3>
+                                    </a>
+                                    <strong class="iecs-darkfont">教授.</strong><br>
+                                    
+                                    
+                                    
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                    </span>
+                </div>
+            
+            
+                <div class="col-lg-6 isotope-item retiree mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0" style="text-align: center;">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/羅浩榮"><img src="/media/img/teacher/avatar/pic_001001.jpg"
+                                                                           class="img-fluid" alt=""
+                                                                           style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-8 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/羅浩榮"><h3
+                                            class="font-weight-bold mb-1">羅浩榮</h3></a>
+                                    <strong class="iecs-darkfont">教授</strong><br>
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                平行處理
+                                            
+                                                高速運算
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+            
+                <div class="col-lg-6 isotope-item retiree mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0" style="text-align: center;">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/謝祥圻"><img src="/media/img/teacher/avatar/Shieh800.jpg"
+                                                                           class="img-fluid" alt=""
+                                                                           style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-8 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/謝祥圻"><h3
+                                            class="font-weight-bold mb-1">謝祥圻</h3></a>
+                                    <strong class="iecs-darkfont">教授</strong><br>
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                決策支援系統設計
+                                            
+                                                數據通信與網路
+                                            
+                                                作業研究
+                                            
+                                                高等作業研究
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+            
+                <div class="col-lg-6 isotope-item retiree mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0" style="text-align: center;">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/劉嘉政"><img src="/media/img/teacher/avatar/pic_004001.jpg"
+                                                                           class="img-fluid" alt=""
+                                                                           style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-8 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/劉嘉政"><h3
+                                            class="font-weight-bold mb-1">劉嘉政</h3></a>
+                                    <strong class="iecs-darkfont">副教授</strong><br>
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                計算機系統
+                                            
+                                                
+                                            
+                                                嵌入式系統
+                                            
+                                                編譯器
+                                            
+                                                可重組計算
+                                            
+                                                硬軟體共同設計
+                                            
+                                                校務行政系統開發
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+            
+                <div class="col-lg-6 isotope-item retiree mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0" style="text-align: center;">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/朱覺民"><img src="/media/img/teacher/avatar/pic_006001.jpg"
+                                                                           class="img-fluid" alt=""
+                                                                           style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-8 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/朱覺民"><h3
+                                            class="font-weight-bold mb-1">朱覺民</h3></a>
+                                    <strong class="iecs-darkfont">副教授</strong><br>
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                資訊管理
+                                            
+                                                系統分析
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+            
+                <div class="col-lg-6 isotope-item retiree mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0" style="text-align: center;">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/周俊文"><img src="/media/img/teacher/avatar/pic_007001.jpg"
+                                                                           class="img-fluid" alt=""
+                                                                           style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-8 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/周俊文"><h3
+                                            class="font-weight-bold mb-1">周俊文</h3></a>
+                                    <strong class="iecs-darkfont">副教授</strong><br>
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                計算機結構
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+            
+                <div class="col-lg-6 isotope-item retiree mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0" style="text-align: center;">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/陳秀英"><img src="/media/img/teacher/avatar/pic_008001.jpg"
+                                                                           class="img-fluid" alt=""
+                                                                           style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-8 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/陳秀英"><h3
+                                            class="font-weight-bold mb-1">陳秀英</h3></a>
+                                    <strong class="iecs-darkfont">講師</strong><br>
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                會計資訊系統
+                                            
+                                                檔案結構
+                                            
+                                                系統分析
+                                            
+                                                資料庫設計
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+            
+                <div class="col-lg-6 isotope-item retiree mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0" style="text-align: center;">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/謝京華"><img src="/media/img/teacher/avatar/pic_003001.jpg"
+                                                                           class="img-fluid" alt=""
+                                                                           style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-8 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/謝京華"><h3
+                                            class="font-weight-bold mb-1">謝京華</h3></a>
+                                    <strong class="iecs-darkfont">副教授</strong><br>
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                資訊管理
+                                            
+                                                程式語言
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+            
+                <div class="col-lg-6 isotope-item retiree mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0" style="text-align: center;">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/謝信芳"><img src="/media/img/teacher/avatar/pic_005001.jpg"
+                                                                           class="img-fluid" alt=""
+                                                                           style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-8 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/謝信芳"><h3
+                                            class="font-weight-bold mb-1">謝信芳</h3></a>
+                                    <strong class="iecs-darkfont">副教授</strong><br>
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                資料挖掘
+                                            
+                                                系統分析與設計
+                                            
+                                                電子商務與安全
+                                            
+                                                資料庫系統設計
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+            
+                <div class="col-lg-6 isotope-item retiree mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0" style="text-align: center;">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/林秀鋒"><img src="/media/img/teacher/avatar/pic_009001.jpg"
+                                                                           class="img-fluid" alt=""
+                                                                           style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-8 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/林秀鋒"><h3
+                                            class="font-weight-bold mb-1">林秀鋒</h3></a>
+                                    <strong class="iecs-darkfont">副教授</strong><br>
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                計算機演算法
+                                            
+                                                密碼學
+                                            
+                                                計算機算術
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+            
+                <div class="col-lg-6 isotope-item retiree mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0" style="text-align: center;">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/趙銘"><img src="/media/img/teacher/avatar/pic_010001.jpg"
+                                                                           class="img-fluid" alt=""
+                                                                           style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-8 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/趙銘"><h3
+                                            class="font-weight-bold mb-1">趙銘</h3></a>
+                                    <strong class="iecs-darkfont">教授</strong><br>
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                數位學習
+                                            
+                                                人工智慧應用
+                                            
+                                                人工智慧應用
+                                            
+                                                節目軟體製作
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+            
+                <div class="col-lg-6 isotope-item retiree mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0" style="text-align: center;">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/林國貴"><img src="/media/img/teacher/avatar/pic_03837.jpg"
+                                                                           class="img-fluid" alt=""
+                                                                           style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-8 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/林國貴"><h3
+                                            class="font-weight-bold mb-1">林國貴</h3></a>
+                                    <strong class="iecs-darkfont">講師</strong><br>
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                人機介面
+                                            
+                                                程式語言
+                                            
+                                                計算機結構
+                                            
+                                                資料庫系統
+                                            
+                                                物件導向設計
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+            
+                <div class="col-lg-6 isotope-item retiree mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0" style="text-align: center;">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/陳寅龍"><img src="/media/img/teacher/avatar/pic_011001.jpg"
+                                                                           class="img-fluid" alt=""
+                                                                           style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-8 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/陳寅龍"><h3
+                                            class="font-weight-bold mb-1">陳寅龍</h3></a>
+                                    <strong class="iecs-darkfont">講師</strong><br>
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                資訊管理
+                                            
+                                                軟品工程
+                                            
+                                                系統分析
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+            
+                <div class="col-lg-6 isotope-item retiree mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0" style="text-align: center;">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/戴嬋玲"><img src="/media/img/teacher/avatar/pic_03736.jpg"
+                                                                           class="img-fluid" alt=""
+                                                                           style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-8 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/戴嬋玲"><h3
+                                            class="font-weight-bold mb-1">戴嬋玲</h3></a>
+                                    <strong class="iecs-darkfont">講師</strong><br>
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                程式語言
+                                            
+                                                系統軟體
+                                            
+                                                資料庫
+                                            
+                                                數位學習
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+            
+                <div class="col-lg-6 isotope-item retiree mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0" style="text-align: center;">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/徐弘洋"><img src="/media/img/teacher/avatar/Hsu2.jpg"
+                                                                           class="img-fluid" alt=""
+                                                                           style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-8 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/徐弘洋"><h3
+                                            class="font-weight-bold mb-1">徐弘洋</h3></a>
+                                    <strong class="iecs-darkfont">副教授</strong><br>
+                                    
+                                    
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+            
+                <div class="col-lg-6 isotope-item retiree mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0" style="text-align: center;">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/黃秋煌"><img src="/media/img/teacher/avatar/pic_03534.jpg"
+                                                                           class="img-fluid" alt=""
+                                                                           style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-8 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/黃秋煌"><h3
+                                            class="font-weight-bold mb-1">黃秋煌</h3></a>
+                                    <strong class="iecs-darkfont">教授</strong><br>
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                無線射頻識別技術與應用
+                                            
+                                                物聯網
+                                            
+                                                工業
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+            
+                <div class="col-lg-6 isotope-item retiree mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0" style="text-align: center;">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/林財寶"><img src="/media/img/teacher/avatar/Lin800.jpg"
+                                                                           class="img-fluid" alt=""
+                                                                           style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-8 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/林財寶"><h3
+                                            class="font-weight-bold mb-1">林財寶</h3></a>
+                                    <strong class="iecs-darkfont">講師</strong><br>
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                機器人系統
+                                            
+                                                微處理機系統
+                                            
+                                                數位系統設計
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+            
+                <div class="col-lg-6 isotope-item retiree mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0" style="text-align: center;">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/楊東麟"><img src="/media/img/teacher/avatar/R106_DLYang3.jpg"
+                                                                           class="img-fluid" alt=""
+                                                                           style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-8 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/楊東麟"><h3
+                                            class="font-weight-bold mb-1">楊東麟</h3></a>
+                                    <strong class="iecs-darkfont">教授</strong><br>
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                資料庫系統與資料挖掘
+                                            
+                                                軟體工程
+                                            
+                                                網際網路服務應用
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+            
+                <div class="col-lg-6 isotope-item retiree mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0" style="text-align: center;">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/顧偉倫"><img src="/media/img/teacher/avatar/R_WMKoo.jpg"
+                                                                           class="img-fluid" alt=""
+                                                                           style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-8 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/顧偉倫"><h3
+                                            class="font-weight-bold mb-1">顧偉倫</h3></a>
+                                    <strong class="iecs-darkfont">講師</strong><br>
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                系統分析與設計
+                                            
+                                                資料結構
+                                            
+                                                軟體工程
+                                            
+                                                人機介面
+                                            
+                                                資料庫系統
+                                            
+                                                
+                                            
+                                                
+                                            
+                                                人工智慧
+                                            
+                                                大型主機組合語言
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+            
+                <div class="col-lg-6 isotope-item retiree mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0" style="text-align: center;">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/黃溪春"><img src="/media/img/teacher/avatar/pic_03231.jpg"
+                                                                           class="img-fluid" alt=""
+                                                                           style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-8 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/黃溪春"><h3
+                                            class="font-weight-bold mb-1">黃溪春</h3></a>
+                                    <strong class="iecs-darkfont">講師</strong><br>
+                                    
+                                    
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+            
+                <div class="col-lg-6 isotope-item retiree mb-4">
+                <span class="thumb-info thumb-info-side-image thumb-info-no-zoom">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-4 pr-0" style="text-align: center;">
+                            <span class="thumb-info-side-image-wrapper" style="float: none;">
+                                <a href="/teacher/蘇宗安"><img src="/media/img/teacher/avatar/pic_01514.jpg"
+                                                                           class="img-fluid" alt=""
+                                                                           style="width: 200px;"></a>
+                            </span>
+                        </div>
+                        <div class="col-lg-6 col-md-8 ">
+                            <span class="thumb-info-caption">
+                                <span class="thumb-info-caption-text">
+                                    <a href="/teacher/蘇宗安"><h3
+                                            class="font-weight-bold mb-1">蘇宗安</h3></a>
+                                    <strong class="iecs-darkfont">副教授</strong><br>
+                                    
+                                    
+                                    
+                                        <strong class="iecs-darkfont">研究專長：
+                                            
+                                                網路管理
+                                            
+                                                通訊網路
+                                            
+                                                資訊安全
+                                            
+                                                資料庫系統
+                                            
+                                        </strong>
+                                    
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </span>
+                </div>
+            
+        </div>
+    </div>
+
+            </div>
+        </div>
+    </div>
+
+    </div>
+    <footer id="footer" class="custom-bg-color-1 border-top-0 m-0">
+        <div class="container">
+            <div class="row py-5 ">
+                <div class="col-lg-5">
+                    <p class="pr-5">逢甲資訊工程系成立於1969年，是我國資訊教育界先驅之一，具有學士班、碩士班及博士班，學制完整形成相互學習的場域，迄今已有畢業系友萬餘人。本系以教學為本，建立扎實基礎;
+                        精實研究，厚實創能人才; 鼓勵產學合作，培育務實能力。</p>
+                    <img src="/static/image/logo_footer.d31a05bdf563.svg" style="height: 65px;" alt="iecs-logo">
+                    <img src="/static/image/IEET.2784cb489302.svg" style="height:90px;" alt="ieet-logo">
+                </div>
+                <div class="col-sm-6 col-lg-2">
+                    <h2 class="text-color-light custom-fontsize-6 mb-3">快速連結</h2>
+                    <ul class="list list-unstyled">
+                        <li><a href="http://www.fcu.edu.tw">逢甲大學</a></li>
+                        <li><a href="https://www.checkinatfcu.com/">逢城學記</a></li>
+                        <li><a href="https://ilearn2.fcu.edu.tw/">ilearn2.0</a></li>
+                        <li><a href="http://www.coiee.fcu.edu.tw">資訊電機學院</a></li>
+                        <li><a href="http://140.134.4.212/wSite/mp?mp=370201" style="color: white">返回舊資訊系網</a></li>
+                    </ul>
+                </div>
+                <div class="col-sm-6 col-lg-2">
+                    <h2 class="text-color-light custom-fontsize-6 mb-3">學生專區</h2>
+                    <ul class="list list-unstyled">
+                        <li><a href="https://coursesearch02.fcu.edu.tw/main.aspx">課程檢索系統</a></li>
+                        <li><a href="http://140.134.131.145/discussion/">研討室借用系統</a></li>
+                        <li><a href="https://topic-coiee.fcu.edu.tw/">專題計畫管理系統</a></li>
+                        <li><a href="https://intern.iecs.fcu.edu.tw/">產學實習管理系統</a></li>
+                    </ul>
+                </div>
+                <div class="col-sm-6 col-lg-3">
+                    <h2 class="text-color-light custom-fontsize-6 mb-3">聯絡我們</h2>
+                    <a href="https://goo.gl/maps/Ly6QMouiP8y"><p>逢甲大學 資訊電機館二樓(資電201)<br>台中市西屯區逢大路127號(文華路100號) </p></a>
+                    <a href="tel:0424517250"><p class="mb-0 text-white">聯絡電話：0424517250#3701</p></a>
+                    <a href="mailto:iecs@fcu.edu.tw"><p class="mb-0 text-white">聯絡信箱：iecs@fcu.edu.tw</p></a>
+                    <a href="http://www.fcu.edu.tw/wSite/lp?ctNode=16062&mp=1"><p class="mb-0">隱私權聲明</p></a>
+                    <ul class="header-social-icons social-icons d-none d-sm-block ml-1 mt-4">
+                        <li class="social-icons-facebook"><a href="https://www.facebook.com/groups/FCUIECSSA/about/"
+                                                             target="_blank" title="Facebook"><i
+                                class="fab fa-facebook-f"></i></a></li>
+                        <li class="social-icons-twitter"><a href="https://goo.gl/maps/Ly6QMouiP8y" target="_blank"
+                                                            title="googlemap"><i class="fas fa-map-marker-alt"></i></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+</div>
+<!-- Vendor -->
+<script src="/static/vendor/jquery/jquery.min.a09e13ee94d5.js"></script>
+<script src="/static/vendor/jquery.appear/jquery.appear.min.f0e60d8652df.js"></script>
+<script src="/static/vendor/jquery.easing/jquery.easing.min.e2d41e5c8fed.js"></script>
+<script src="/static/vendor/jquery.cookie/jquery.cookie.min.87e34eefdb24.js"></script>
+<script src="/static/vendor/popper/umd/popper.min.84910d80281f.js"></script>
+<script src="/static/vendor/bootstrap/js/bootstrap.min.67176c242e1b.js"></script>
+<script src="/static/vendor/common/common.min.3102e7985648.js"></script>
+<script src="/static/vendor/jquery.validation/jquery.validate.min.6485bffc3529.js"></script>
+<script src="/static/vendor/jquery.easy-pie-chart/jquery.easypiechart.min.eac43429f465.js"></script>
+<script src="/static/vendor/jquery.gmap/jquery.gmap.min.3977d9a1ee89.js"></script>
+<script src="/static/vendor/jquery.lazyload/jquery.lazyload.min.5bbabae11131.js"></script>
+<script src="/static/vendor/isotope/jquery.isotope.min.5fb7c19c9c51.js"></script>
+<script src="/static/js/isotope-docs.min.b45179d62201.js"></script>
+<script src="/static/vendor/owl.carousel/owl.carousel.min.f416f9031fef.js"></script>
+<script src="/static/vendor/magnific-popup/jquery.magnific-popup.min.ba6cf724c8bb.js"></script>
+<script src="/static/vendor/vide/jquery.vide.min.901e2d8fd2af.js"></script>
+<!-- Theme Base, Components and Settings -->
+<script src="/static/js/theme.d2ccb4896bad.js"></script>
+<!-- Current Page Vendor and Views -->
+<script src="/static/vendor/rs-plugin/js/jquery.themepunch.tools.min.67a9644e880e.js"></script>
+<script src="/static/vendor/rs-plugin/js/jquery.themepunch.revolution.min.fec0fef6457a.js"></script>
+<!-- Current Page Vendor and Views -->
+<script src="/static/js/views/view.contact.312dc3099fcd.js"></script>
+<!-- Demo -->
+<script src="/static/js/demo-insurance.6cb6ee1a3f75.js"></script>
+<!-- Theme Custom -->
+<script src="/static/js/custom.d41d8cd98f00.js"></script>
+<!-- Theme Initialization Files -->
+<script src="/static/js/theme.init.0586eb8cb43a.js"></script>
+<!--other-->
+<script src="/static/js/plugins.4abc799f4bd9.js"></script>
+<script src="/static/js/functions.e57198c3fbec.js"></script>
+<script src="/static/js/slick.min.777da4aaf5b9.js"></script>
+
+    <!-- paper_list.js v1.7.1 -->
+    <script src="/static/js/paper-list.353aa03839ea.js"></script>
+    <script>
+        window.onload = weburl('onload');
+
+        function weburl(urlname) {
+            var category = ["系主任", "專任教師", "兼任教師", "行政人員", "退休教師",];
+            var category_link = ["#major", "#FT", "#PT", "#administration", "#retiree"];
+            for (var i = 0; i < category.length; i++) {
+                if (urlname === category[i]) {
+                    document.getElementById("category").innerHTML = category[i];
+                    document.getElementById("category").setAttribute("href", category_link[i]);
+                }
+            }
+            if (urlname === "onload") {
+                var website = location.href;
+                var NowWebsite = "#" + website.split("#")[1];
+                for (var i = 0; i < category.length; i++) {
+                    if (NowWebsite === category_link[i]) {
+                        document.getElementById("category").innerHTML = category[i];
+                        document.getElementById("category").setAttribute("href", category_link[i]);
+                    }
+                }
+            }
+        }
+    </script>
+
+</body>
+</html>
