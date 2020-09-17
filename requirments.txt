@@ -1,6 +1,5 @@
 requests
 bs4
 pysocks
-socket
 socks
 selenium
