@@ -3,3 +3,9 @@ bs4
 pysocks
 socks
 selenium
+wordcloud
+pandas
+nltk
+jieba
+gensim
+opencc
