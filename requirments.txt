@@ -1,0 +1,19 @@
+jupyter notebook
+requests==2.24.0
+numpy==1.16.2
+bs4
+pysocks
+socks
+selenium
+wordcloud==1.8.1
+pandas==1.1.4
+nltk==3.5
+jieba==0.42.1
+gensim==3.8.3
+opencc==1.1.1
+xlrd
+scikit-learn
+keras==2.2.3
+tensorflow==1.15.0
+python-crfsuite
+seaborn
